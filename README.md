@@ -29,9 +29,25 @@ There are still good people in Russia, just as there are still good people in ev
 
 ## My Ukraine related projects
 
+### Documentation
+
+#### Homepage
+
 [Ukraine](https://github.com/seanpm2001/Ukraine/) - The current repository
 
+#### Software listing
+
 [Awesome Ukrainian Software](https://github.com/seanpm2001/Awesome-Ukrainian-Software/) - A list of lists of software made by Ukrainians. Currently accepting community help.
+
+### Entertainment
+
+#### Video Games
+
+##### History simulators
+
+###### Educational
+
+[Ukraine History Simulator](https://github.com/seanpm2001/Ukraine-History-Simulator/) - A history game that lets you control Ukraine at any part of its history
 
 ***
 
@@ -41,9 +57,9 @@ There are still good people in Russia, just as there are still good people in ev
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, June 22nd at 11:25 pm PST)`
+**File version:** `2 (2022, Tuesday, September 27th at 6:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `80`
+**Line count (including blank lines and compiler line):** `117`
 
 **Article language:** `English (USA)`
 
@@ -71,6 +87,27 @@ There are still good people in Russia, just as there are still good people in ev
 - [x] Added the file info section
 - [x] Added the file history section
 - [ ] No other changes in version 1
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 2 (2022, Tuesday, September 27th at 6:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `My Ukraine related projects` section
+- - [x] Added the `Homepage` subsection
+- - [x] Added the `Software listing` subsection
+- - [x] Added the `Entertainment` subsection
+- - - [x] Added the `Video games` subsubsection
+- - - - [x] Added the `History simulators` subsubsubsection
+- - - - - [x] Added the `Educational` subsubsubsubsection
+- - - - - - [x] Added a link to the [`Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/) project
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 2
 
 </details>
 
